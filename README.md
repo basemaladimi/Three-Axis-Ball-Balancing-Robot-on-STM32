@@ -14,7 +14,8 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________
 ## What?
 
-  - Worked with a four-member team developing a three-axis ball-balancing robot that combined computer vision, mechanical design, embedded control, and system modeling.
+  - Worked with a five-member team developing a three-axis ball-balancing robot that combined computer vision, mechanical design, embedded control, and system modeling.
+    
 <img width="220" height="213" alt="image" src="https://github.com/user-attachments/assets/e59f6422-6c7e-43a6-b2e6-e5bf15c3b50c" /> <img width="221" height="165" alt="image" src="https://github.com/user-attachments/assets/465eefb0-270a-4309-8c59-3d85ca22ba97" />
 
 ________________________________________________________________________________________________
@@ -38,7 +39,7 @@ ________________________________________________________________________________
    - Developed skills in integrating hardware and software for precise robotic control.
    - Achieved **first-place performance** among teams. And received a Trophy.
 
-<img width="390" height="209" alt="image" src="https://github.com/user-attachments/assets/101c44a2-481c-449e-b867-a7c227766c0e" /> <img width="210" height="225" alt="image" src="https://github.com/user-attachments/assets/ae26da37-a660-47db-ac0d-89e81e019d97" /> <img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/1eb4cac5-1a59-4c7d-8869-f46cc5dd3982" />
+<img width="390" height="209" alt="image" src="https://github.com/user-attachments/assets/101c44a2-481c-449e-b867-a7c227766c0e" /> <img width="210" height="225" alt="image" src="https://github.com/user-attachments/assets/ae26da37-a660-47db-ac0d-89e81e019d97" /> <img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/1eb4cac5-1a59-4c7d-8869-f46cc5dd3982" />
 
 
  
