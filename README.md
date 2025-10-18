@@ -28,7 +28,7 @@ ________________________________________________________________________________
   - programmed with an STM32 microcontroller, designed the PID control structure in code, and integrated the optimized PID.
 
 
- <img width="175" height="171" alt="image" src="https://github.com/user-attachments/assets/73d8be67-4424-479a-accb-f3de5830d9dd" /> <img width="256" height="138" alt="image" src="https://github.com/user-attachments/assets/abb83442-3b5e-472c-90be-3fd5c1274e62" />  <img width="175" height="171" alt="image" src="https://github.com/user-attachments/assets/6c5c333c-7efc-4270-b6d4-c839ec25e666" /> <img width="200" height="104" alt="image" src="https://github.com/user-attachments/assets/a9063a3e-6ef4-4386-8071-5e53557731b3" />
+ <img width="213" height="210" alt="image" src="https://github.com/user-attachments/assets/a68c5b28-5d85-4555-915f-c55d81c2c30d" /> <img width="256" height="138" alt="image" src="https://github.com/user-attachments/assets/abb83442-3b5e-472c-90be-3fd5c1274e62" />  <img width="175" height="171" alt="image" src="https://github.com/user-attachments/assets/6c5c333c-7efc-4270-b6d4-c839ec25e666" /> <img width="200" height="104" alt="image" src="https://github.com/user-attachments/assets/a9063a3e-6ef4-4386-8071-5e53557731b3" />
 
  ________________________________________________________________________________________________
 
@@ -39,7 +39,7 @@ ________________________________________________________________________________
    - Developed skills in integrating hardware and software for precise robotic control.
    - Achieved **first-place performance** among teams. And received a Trophy.
 
-<img width="390" height="209" alt="image" src="https://github.com/user-attachments/assets/101c44a2-481c-449e-b867-a7c227766c0e" /> <img width="210" height="225" alt="image" src="https://github.com/user-attachments/assets/ae26da37-a660-47db-ac0d-89e81e019d97" /> <img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/1eb4cac5-1a59-4c7d-8869-f46cc5dd3982" />
+<img width="390" height="209" alt="image" src="https://github.com/user-attachments/assets/101c44a2-481c-449e-b867-a7c227766c0e" /> <img width="210" height="225" alt="image" src="https://github.com/user-attachments/assets/ae26da37-a660-47db-ac0d-89e81e019d97" /> <img width="250" height="18.5" alt="image" src="https://github.com/user-attachments/assets/1eb4cac5-1a59-4c7d-8869-f46cc5dd3982" />
 
 
  
