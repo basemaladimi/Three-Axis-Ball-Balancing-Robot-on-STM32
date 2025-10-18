@@ -39,7 +39,7 @@ ________________________________________________________________________________
    - Developed skills in integrating hardware and software for precise robotic control.
    - Achieved **first-place performance** among teams. And received a Trophy.
 
-<img width="390" height="209" alt="image" src="https://github.com/user-attachments/assets/101c44a2-481c-449e-b867-a7c227766c0e" /> <img width="210" height="225" alt="image" src="https://github.com/user-attachments/assets/ae26da37-a660-47db-ac0d-89e81e019d97" /> <img width="400" height="187" alt="image" src="https://github.com/user-attachments/assets/1eb4cac5-1a59-4c7d-8869-f46cc5dd3982" />
+<img width="390" height="209" alt="image" src="https://github.com/user-attachments/assets/101c44a2-481c-449e-b867-a7c227766c0e" /> <img width="210" height="225" alt="image" src="https://github.com/user-attachments/assets/ae26da37-a660-47db-ac0d-89e81e019d97" /> <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/1eb4cac5-1a59-4c7d-8869-f46cc5dd3982" />
 
 
  
