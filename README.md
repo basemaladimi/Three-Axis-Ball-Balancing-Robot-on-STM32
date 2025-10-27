@@ -5,7 +5,7 @@ ________________________________________________________________________________
 ## Contributors
 
 - **Basem Alademi** [@basemaladimi](https://github.com/basemaladimi)
-- **beshr Haj Hashem** [@basemaladimi]([https://github.com/basemaladimi](https://www.linkedin.com/in/beshr-haj-hashem-176b1b20b/))
+- **Beshr Haj Hashem** [LinkedIn](https://www.linkedin.com/in/beshr-haj-hashem-176b1b20b/)
 - **Ahmed Haroun** [@basemaladimi](https://github.com/basemaladimi)
 - **Hozifa** [@basemaladimi](https://github.com/basemaladimi)
 
