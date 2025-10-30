@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 - **Basem Alademi** [@basemaladimi](https://github.com/basemaladimi)
 - **Beshr Haj Hashem** [LinkedIn](https://www.linkedin.com/in/beshr-haj-hashem-176b1b20b/)
-- **Ahmed Haroun** [@basemaladimi](https://github.com/basemaladimi)
+- **Kais Abazid** [LinkedIn](https://www.linkedin.com/in/kais-abazid-7844402a4/)
 - **Hozifa** [@basemaladimi](https://github.com/basemaladimi)
 
 ________________________________________________________________________________________________
